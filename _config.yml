@@ -6,9 +6,9 @@ color:
   saturation: 0.9285621682647616
   rhythmicContrast: 0.9959697690792382
   brandColors:
-    - '#DDDCC5'
-    - '#958976'
-    - '#611427'
-    - '#1D2326'
-    - '#6A6A61'
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
 name: WellnessApps
