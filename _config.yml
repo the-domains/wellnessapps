@@ -1,0 +1,14 @@
+layout_spectrum: 0.5729595180600882
+typography_spectrum: 0.4048585540149361
+color:
+  brandStrength: 0.5344604644924402
+  lightness: 0.32322787679731846
+  saturation: 0.9285621682647616
+  rhythmicContrast: 0.9959697690792382
+  brandColors:
+    - '#DDDCC5'
+    - '#958976'
+    - '#611427'
+    - '#1D2326'
+    - '#6A6A61'
+name: WellnessApps
